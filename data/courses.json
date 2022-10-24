@@ -1,24 +1,103 @@
 [
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "1",
         "others_info": {
           "is_todays_pick": false,
           "is_trending": true
         },
-        "courses_img":"https://th.bing.com/th/id/OIP.VCMQfNUgcyjIE-3D4RAfiQHaEy?w=281&h=181&c=7&r=0&o=5&dpr=1.3&pid=1.7",
-        "category_id": "01",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_review": 4099,
-        "header": "e-Commerce",
-        "title": "Dropshipping: Complete Guide",
+        "title": "E-Commerce",
         "description":"Alright this might be a little self-promotion here but I would not do it if I did not think it would be valuable for you!If you want to learn dropshipping for free then my complete Shopify dropshipping guide will help you with that Quick warning it is a huge article! But it contains everything you need to know to create your own Shopify dropshipping store in 2022 I will even explain to you what dropshipping means.It contains 20 easy to follow steps and almost 6000 words. How awesome is that.If you are interested in checking it out and learning more about Shopify dropshipping then I suggest clicking on the link below. Shopify Dropshipping Complete Guide 2022: Create Your Store",
         "author": {
           "name": "Neckey Tesla ",
-          "published_date": "2021-08-24 20:27:34",
-          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+          "published_date": "2021-08-24 20:30:20"
         },
-        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-        "image_url": "https://th.bing.com/th/id/OIP.r-PXttMrzrJbBfUNavgi9wHaD4?w=336&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+        "image_url": "https://th.bing.com/th/id/OIP.e5ibfF7JuFK4xBRLEpcVhQHaE8?w=254&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+      },
+    {
+        "_id": "2",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "rating": { "number": 4.6, "badge": "Super-Excellent" },
+        "total_review": 4577,
+        "title": "web-Design Full Guide Line",
+        "description":"Do you work in web design Are you a freelancer or do you work in an agency Either way the answer to both questions is that it is a good idea to read up on web design blogs on a regular basis Web design is a largely creative role.And working in any creative role can be very rewarding but only if you are constantly inspired. How many creatives have you met that love hitting a brick wall when given a new client brief or design problem? Probably none.That is why it pays to follow the best web design blogs on the internet. They help you stay current on the latest design trends and provide you with a regular source of inspiration. Many also provide advice on the best web design techniques to use and how to conduct your daily business as well as free resources to enhance your work.There are however a lot of web design blogs on the internet. That is why in this post we have rounded up a list of 40 of the best web design blogs out there to make your life a little easier. Read on to find your perfect bookmarks!",
+        "author": {
+          "name": "Jon Adison ",
+          "published_date": "2021-04-17 10:20:45"
+        },
+        "image_url": "https://th.bing.com/th/id/OIP.YgPScXBZY8Xo5rJOohBVQQHaE7?w=290&h=193&c=7&r=0&o=5&dpr=1.3&pid=1.7"
         
-      } 
+      }, 
+    {
+        "_id": "3",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "rating": { "number": 4.7, "badge": "Exclusive-Excellent" },
+        "total_review": 7535,
+        "title": "SEO",
+        "description":"Search engine optimization (SEO) standards are constantly changing. Like social media, email marketing, and emerging technologies such as artificial intelligence (AI), search engines are improving the way in which they deliver results to users every day.To do this, they're focusing on things like localization, page authority, click-through rate, and even searches that come from voice assistants like Amazon Alexa and Google Assistant.As a marketer, it is critical to keep up with all of this news. Here's our reading list of the best SEO blogs on the internet today to help you become a better marketer.",
+        "author": {
+          "name": "Kipp Bodnar ",
+          "published_date": "2022-06-05 7:2:39"
+        },
+        "image_url": "https://th.bing.com/th/id/OIP.bQqNJHJk-ZIH9B9YzwdmgAHaE6?w=263&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+        
+      }, 
+    {
+        "_id": "4",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_review": 5420,
+        "title": "Graphic Design",
+        "description":"One of the best memories, for a parent or a child growing up, is bed time stories. Trying to squeeze in those extra minutes of being awake by pleading “just one more story please mummy!” is something almost all of us can relate too. Stories are one the most powerful tools - to educate, entertain and teach moral values. It is the best way to get lost in another time, place, or world  whether it is fantasy or real",
+        "author": {
+          "name": "Jayde Ferguson",
+          "published_date": "2022-02-18 19:50:40"
+        },
+        "image_url": "https://th.bing.com/th/id/OIP.kMpOYOk21WeIhYtmglsFKwHaFj?w=233&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+        
+      }, 
+    {
+        "_id": "5",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "rating": { "number": 4.4, "badge": "Excellent" },
+        "total_review": 3587,
+        "title": "App Development",
+        "description":"Mobile applications have become big business in recent years; in fact, statistics show that 21 percent of millennials open an app more than 50 times per day. While there is no denying the popularity of apps, the sheer number of these custom software applications can make it difficult to see results when creating your own apps. As of August 2022, the Apple App Store has 4.567 million apps and games available, and the number of apps on the Google Play Store reached 3.57 million by July 2022. As such, it makes sense that your app will have to stand out if you want a lot of people to download it. In the end, it all comes down to app development.What is app development, though, you may ask? Put simply, app development is the process in which developers create an application to be used on smartphones, tablets and other mobile devices. While app development sometimes involves creating a web-based app or a desktop version of the app, the majority of app development projects are deployed to mobile and tablet devices. There are many features and considerations that factor into app development, which will be further explored in this article.",
+        "author": {
+          "name": "Nick Damoulakis",
+          "published_date": "2020-10-16 08:35:55"
+        },
+        "image_url": "https://th.bing.com/th/id/OIP.wOlQh8on6yPHZLxS3frTXQHaEo?w=297&h=185&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+        
+      },
+    {
+        "_id": "6",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "rating": { "number": 4.6, "badge": "Super-Excellent" },
+        "total_review": 7732,
+        "title": "HTML",
+        "description":"HTML stands for HyperText Markup Language. It is a standard markup language for web page creation. It allows the creation and structure of sections, paragraphs, and links using HTML elements (the building blocks of a web page) such as tags and attributes. It is also worth noting that HTML is not considered a programming language as it can not create dynamic functionality. It is now considered an official web standard. The World Wide Web Consortium (W3C) maintains and develops HTML specifications, along with providing regular updates. This article will go over the basics of HTML, including how it works, its pros and cons, and how it relates to CSS and JavaScript",
+        "author": {
+          "name": "Astari S.",
+          "published_date": "2022-09-03 16:15:24"
+        },
+        "image_url": "https://th.bing.com/th/id/OIP.Ih5KUPQ7bhYim4GLBjZNfgHaD4?w=340&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+        
+      }
 ]
