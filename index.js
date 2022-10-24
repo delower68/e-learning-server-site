@@ -20,6 +20,14 @@ app.get('/courses', (req, res)=>{
     // console.log(courses);
 })
 
+app.get('/courses/:id', (req, res)=>{
+    // console.log(req.params.id)
+    const course = req.params.id
+    const singleCourse = courses?.find((p)=> p._id == course);
+    // console.log(singleCourse);
+    res.send(singleCourse)
+})
+
 
 
 app.listen(port, ()=>{
