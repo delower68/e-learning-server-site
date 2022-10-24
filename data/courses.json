@@ -1,0 +1,24 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "courses_img":"https://th.bing.com/th/id/OIP.VCMQfNUgcyjIE-3D4RAfiQHaEy?w=281&h=181&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "category_id": "01",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_review": 4099,
+        "header": "e-Commerce",
+        "title": "Dropshipping: Complete Guide",
+        "description":"Alright this might be a little self-promotion here but I would not do it if I did not think it would be valuable for you!If you want to learn dropshipping for free then my complete Shopify dropshipping guide will help you with that Quick warning it is a huge article! But it contains everything you need to know to create your own Shopify dropshipping store in 2022 I will even explain to you what dropshipping means.It contains 20 easy to follow steps and almost 6000 words. How awesome is that.If you are interested in checking it out and learning more about Shopify dropshipping then I suggest clicking on the link below. Shopify Dropshipping Complete Guide 2022: Create Your Store",
+        "author": {
+          "name": "Neckey Tesla ",
+          "published_date": "2021-08-24 20:27:34",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://th.bing.com/th/id/OIP.r-PXttMrzrJbBfUNavgi9wHaD4?w=336&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+        
+      } 
+]
