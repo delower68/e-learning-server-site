@@ -10,22 +10,35 @@ const courses = require('./data/courses')
 const cors = require('cors');
 app.use(cors());
 
+
+
 app.get('/', (req ,res)=>{
     res.send('The server is running');
 });
 
 
+
+// get the all courses here 
 app.get('/courses', (req, res)=>{
     res.send(courses)
-    // console.log(courses);
 })
 
+
+
+// get the single course here 
 app.get('/courses/:id', (req, res)=>{
-    // console.log(req.params.id)
     const course = req.params.id
     const singleCourse = courses?.find((p)=> p._id == course);
-    // console.log(singleCourse);
-    res.send(singleCourse)
+
+
+    // if anyone wanna get the value that is out of our server
+    if (!singleCourse) {
+        res.send('we can not find your result')
+    }
+
+    else{
+        res.send(singleCourse)
+    }
 })
 
 
@@ -33,3 +46,6 @@ app.get('/courses/:id', (req, res)=>{
 app.listen(port, ()=>{
     console.log(`Server is running on port: ${port}`);
 });
+
+
+module.exports = app;
